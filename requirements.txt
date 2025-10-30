@@ -1,0 +1,22 @@
+# Dependências principais
+openai>=1.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Web server for webhook
+fastapi>=0.95.2
+uvicorn>=0.22.0
+python-multipart>=0.0.5
+
+# Processamento de áudio
+pydub>=0.25.1
+
+# Utilitários
+click>=8.1.0
+phonenumbers>=8.13.16
+rapidfuzz>=2.15.1
+
+# Desenvolvimento (opcional)
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
